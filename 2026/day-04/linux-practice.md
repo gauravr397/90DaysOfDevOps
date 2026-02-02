@@ -66,6 +66,7 @@ Jan 12 17:51:55 nitro sshd: pam_unix(sshd:session): session opened for user gr(u
 ```bash
 gr@nitro:~/Projects/TWS/90DaysOfDevOps$ tail -20 /var/log/auth.log
 2026-02-02T09:05:01.683715+00:00 nitro CRON[15940]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+```
 
 ### 4. Mini Troubleshooting Flow
 Based on my practice, here is a simple troubleshooting flow if I couldn't connect via SSH:
