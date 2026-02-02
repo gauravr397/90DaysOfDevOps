@@ -1,7 +1,4 @@
 # Day 04: Hands-On Linux Practice Log
-
-Today's practice focuses on inspecting the `ssh` service on my local machine (`nitro`).
-
 ---
 
 ### 1. Process Checks
