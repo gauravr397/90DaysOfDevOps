@@ -1,6 +1,3 @@
-### **Refined `linux-troubleshooting-runbook.md` File**
-
-```markdown
 # Day 05: Linux Troubleshooting Runbook
 **Target Service:** OpenSSH Server (`sshd`)
 
