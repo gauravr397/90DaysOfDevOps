@@ -1,7 +1,4 @@
-Since you are already familiar with the concepts, here are the direct deliverables (Markdown files) and the commands to set everything up quickly in your repository.
-
 ### Step 1: Create the Directory
-Navigate to your repository and create the folder for Day 22.
 
 ```bash
 mkdir -p 2026/day-22
@@ -9,7 +6,6 @@ cd 2026/day-22
 ```
 
 ### Step 2: Create `day-22-notes.md`
-Here are the answers to the conceptual questions asked in Task 6.
 
 **Run this command to generate the file:**
 
@@ -43,7 +39,6 @@ EOF
 ```
 
 ### Step 3: Create `git-commands.md`
-This covers Tasks 3, 4, and 5. Since you need a "living document," here is a solid starting point with the categories requested.
 
 **Run this command to generate the file:**
 
@@ -85,7 +80,6 @@ EOF
 ```
 
 ### Step 4: Simulate the "Multiple Commits" (Optional)
-Since the task requires you to show "History", you can simulate the activity of modifying the file multiple times and committing it within your main repo:
 
 ```bash
 # 1. Add files initially
