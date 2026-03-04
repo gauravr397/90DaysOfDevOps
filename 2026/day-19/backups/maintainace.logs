@@ -1,0 +1,495 @@
+[] starting log bkp
+[] Total num of file will be compress : 6
+[] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[] completed ...
+[] total 32K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 381 Mar  4 15:57 maintainace.logs
+[20260304_15:58:45] starting log bkp
+[20260304_15:58:45] Total num of file will be compress : 6
+[20260304_15:58:45] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_15:58:45] completed ...
+[20260304_15:58:45] total 36K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 1.4K Mar  4 15:58 maintainace.logs
+[20260304_16:05:01] starting log bkp
+[20260304_16:05:01] Total num of file will be compress : 6
+[20260304_16:05:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:05:01] completed ...
+[20260304_16:05:01] total 40K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 2.4K Mar  4 16:05 maintainace.logs
+[20260304_16:06:01] starting log bkp
+[20260304_16:06:01] Total num of file will be compress : 6
+[20260304_16:06:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:06:01] completed ...
+[20260304_16:06:01] total 44K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 3.6K Mar  4 16:06 maintainace.logs
+[20260304_16:07:01] starting log bkp
+[20260304_16:07:01] Total num of file will be compress : 6
+[20260304_16:07:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:07:01] completed ...
+[20260304_16:07:01] total 52K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 4.8K Mar  4 16:07 maintainace.logs
+[20260304_16:08:01] starting log bkp
+[20260304_16:08:01] Total num of file will be compress : 6
+[20260304_16:08:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:08:01] completed ...
+[20260304_16:08:01] total 56K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 6.0K Mar  4 16:08 maintainace.logs
+[20260304_16:09:01] starting log bkp
+[20260304_16:09:01] Total num of file will be compress : 6
+[20260304_16:09:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:09:01] completed ...
+[20260304_16:09:01] total 60K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 7.4K Mar  4 16:09 maintainace.logs
+[20260304_16:10:01] starting log bkp
+[20260304_16:10:01] Total num of file will be compress : 6
+[20260304_16:10:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:10:01] completed ...
+[20260304_16:10:01] total 68K
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr  276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 8.8K Mar  4 16:10 maintainace.logs
+[20260304_16:11:01] starting log bkp
+[20260304_16:11:01] Total num of file will be compress : 6
+[20260304_16:11:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:11:01] completed ...
+[20260304_16:11:01] total 72K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 11K Mar  4 16:11 maintainace.logs
+[20260304_16:12:01] starting log bkp
+[20260304_16:12:01] Total num of file will be compress : 6
+[20260304_16:12:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:12:01] completed ...
+[20260304_16:12:01] total 76K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 12K Mar  4 16:12 maintainace.logs
+[20260304_16:13:01] starting log bkp
+[20260304_16:13:01] Total num of file will be compress : 6
+[20260304_16:13:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:13:01] completed ...
+[20260304_16:13:01] total 84K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 14K Mar  4 16:13 maintainace.logs
+[20260304_16:14:01] starting log bkp
+[20260304_16:14:01] Total num of file will be compress : 6
+[20260304_16:14:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:14:01] completed ...
+[20260304_16:14:01] total 88K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 16K Mar  4 16:14 maintainace.logs
+[20260304_16:15:01] starting log bkp
+[20260304_16:15:01] Total num of file will be compress : 6
+[20260304_16:15:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:15:01] completed ...
+[20260304_16:15:01] total 100K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:15 backup_20260304_16:15:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 17K Mar  4 16:15 maintainace.logs
+[20260304_16:16:01] starting log bkp
+[20260304_16:16:01] Total num of file will be compress : 6
+[20260304_16:16:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:16:01] completed ...
+[20260304_16:16:01] total 104K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:15 backup_20260304_16:15:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:16 backup_20260304_16:16:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 19K Mar  4 16:16 maintainace.logs
+[20260304_16:17:01] starting log bkp
+[20260304_16:17:01] Total num of file will be compress : 6
+[20260304_16:17:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:17:01] completed ...
+[20260304_16:17:01] total 112K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:15 backup_20260304_16:15:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:16 backup_20260304_16:16:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:17 backup_20260304_16:17:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 21K Mar  4 16:17 maintainace.logs
+[20260304_16:18:01] starting log bkp
+[20260304_16:18:01] Total num of file will be compress : 6
+[20260304_16:18:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:18:01] completed ...
+[20260304_16:18:01] total 116K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:15 backup_20260304_16:15:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:16 backup_20260304_16:16:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:17 backup_20260304_16:17:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:18 backup_20260304_16:18:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 23K Mar  4 16:18 maintainace.logs
+[20260304_16:19:01] starting log bkp
+[20260304_16:19:01] Total num of file will be compress : 6
+[20260304_16:19:01] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:19:01] completed ...
+[20260304_16:19:01] total 124K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:15 backup_20260304_16:15:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:16 backup_20260304_16:16:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:17 backup_20260304_16:17:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:18 backup_20260304_16:18:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:19 backup_20260304_16:19:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 25K Mar  4 16:19 maintainace.logs
+[20260304_16:20:02] starting log bkp
+[20260304_16:20:02] Total num of file will be compress : 6
+[20260304_16:20:02] Files : total 24K
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:39 sample.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample2.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample3.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample4.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample5.log
+-rw-rw-r-- 1 gr gr 45 Mar  4 13:41 sample6.log
+[20260304_16:20:02] completed ...
+[20260304_16:20:02] total 128K
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:03 backup__logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:36 backup_20260304_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:38 backup_20260304_1438_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:39 backup_20260304_1439_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:40 backup_20260304_1440_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 14:41 backup_20260304_1441_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:57 backup_20260304_15:57:14_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 15:58 backup_20260304_15:58:45_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:05 backup_20260304_16:05:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:06 backup_20260304_16:06:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:07 backup_20260304_16:07:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:08 backup_20260304_16:08:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:09 backup_20260304_16:09:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:10 backup_20260304_16:10:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:11 backup_20260304_16:11:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:12 backup_20260304_16:12:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:13 backup_20260304_16:13:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:14 backup_20260304_16:14:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:15 backup_20260304_16:15:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:16 backup_20260304_16:16:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:17 backup_20260304_16:17:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:18 backup_20260304_16:18:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:19 backup_20260304_16:19:01_logs.tar.gz
+-rw-rw-r-- 1 gr gr 276 Mar  4 16:20 backup_20260304_16:20:02_logs.tar.gz
+-rw-rw-r-- 1 gr gr 27K Mar  4 16:20 maintainace.logs
