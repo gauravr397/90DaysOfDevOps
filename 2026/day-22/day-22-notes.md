@@ -34,6 +34,7 @@ The \`.git/\` folder is the brain of the repository. It contains all the metadat
 2.  **Staging Area**: A preview zone where files are prepared for the next commit. (Staged).
 3.  **Repository (.git directory)**: The permanent database where Git stores the snapshots (commits) and history. (Committed).
 EOF
+
 ```
 
 ### Step 3: Create `git-commands.md`
@@ -72,6 +73,7 @@ A living document of Git commands used during the 90DaysOfDevOps challenge.
 | :--- | :--- | :--- |
 | \`git branch\` | Lists all local branches | \`git branch\` |
 EOF
+
 ```
 
 ### Step 4: Simulate the "Multiple Commits" (Optional)
