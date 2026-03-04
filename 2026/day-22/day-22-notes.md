@@ -10,8 +10,6 @@ cd 2026/day-22
 **Run this command to generate the file:**
 
 ```bash
-cat <<EOF > day-22-notes.md
-# Day 22 - Git Concepts & Workflow Notes
 
 ## 1. What is the difference between \`git add\` and \`git commit\`?
 *   **\`git add\`**: Moves changes from the **Working Directory** to the **Staging Area**. It tells Git, "I want to include these specific changes in the next snapshot."
@@ -40,10 +38,7 @@ EOF
 
 ### Step 3: Create `git-commands.md`
 
-**Run this command to generate the file:**
-
 ```bash
-cat <<EOF > git-commands.md
 # Git Commands Reference
 
 A living document of Git commands used during the 90DaysOfDevOps challenge.
