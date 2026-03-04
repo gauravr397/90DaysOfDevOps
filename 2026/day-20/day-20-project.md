@@ -12,7 +12,6 @@ Here is the final script I wrote. It performs input validation, counts specific 
 ```bash
 #!/bin/bash
 
-# 1. Input Validation
 if [ "$#" -eq 0 ]; then
     echo "Usage: $0 <log_file>"
     exit 1
@@ -25,21 +24,14 @@ if [ ! -e "$LOG_FILE" ]; then
     exit 1
 fi
 
-# Variables for Report Generation
 CURRENT_DATE=$(date +"%Y%m%d_%H:%M:%S")
 REPORT_FILE="log_report_${CURRENT_DATE}.txt"
 
-# 2. Count Total Errors (Case insensitive search for "ERROR" or "Failed")
 ERROR_COUNT=$(grep -c -i "ERROR" "$LOG_FILE")
 
-# 3. List Critical Events (with line numbers)
 CRITICAL_EVENTS=$(grep -n "CRITICAL" "$LOG_FILE")
 
-# 4. Top 5 Error Messages
-# Logic: Find lines with ERROR -> Extract message part -> Sort -> Count unique -> Sort desc -> Top 5
 TOP_ERRORS=$(grep "ERROR" "$LOG_FILE" | sed -E 's/.*\[ERROR\] (.*) - [0-9]+$/\1/' | sort | uniq -c | sort -nr | head -5)
-
-# --- Generate Summary Report ---
 
 {
     echo "Date of analysis: $CURRENT_DATE"
@@ -54,7 +46,6 @@ TOP_ERRORS=$(grep "ERROR" "$LOG_FILE" | sed -E 's/.*\[ERROR\] (.*) - [0-9]+$/\1/
     echo "$CRITICAL_EVENTS"
 } > "$REPORT_FILE"
 
-# --- Print to Console ---
 echo "Analysis complete. Report generated: $REPORT_FILE"
 cat "$REPORT_FILE"
 ```
