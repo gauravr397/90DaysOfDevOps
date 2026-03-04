@@ -7,9 +7,8 @@ cd 2026/day-22
 
 ### Step 2: Create `day-22-notes.md`
 
-**Run this command to generate the file:**
-
 ```bash
+<<EOF > 
 
 ## 1. What is the difference between \`git add\` and \`git commit\`?
 *   **\`git add\`**: Moves changes from the **Working Directory** to the **Staging Area**. It tells Git, "I want to include these specific changes in the next snapshot."
@@ -34,13 +33,12 @@ The \`.git/\` folder is the brain of the repository. It contains all the metadat
 2.  **Staging Area**: A preview zone where files are prepared for the next commit. (Staged).
 3.  **Repository (.git directory)**: The permanent database where Git stores the snapshots (commits) and history. (Committed).
 EOF
-
 ```
 
 ### Step 3: Create `git-commands.md`
 
 ```bash
-# Git Commands Reference
+<<EOF > 
 
 A living document of Git commands used during the 90DaysOfDevOps challenge.
 
@@ -73,7 +71,6 @@ A living document of Git commands used during the 90DaysOfDevOps challenge.
 | :--- | :--- | :--- |
 | \`git branch\` | Lists all local branches | \`git branch\` |
 EOF
-
 ```
 
 ### Step 4: Simulate the "Multiple Commits" (Optional)
