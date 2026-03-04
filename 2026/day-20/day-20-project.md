@@ -12,42 +12,52 @@ Here is the final script I wrote. It performs input validation, counts specific 
 ```bash
 #!/bin/bash
 
+cur_date=$(date +%Y%m%d_%M:%H:%S)
+
+#task 1
 if [ "$#" -eq 0 ]; then
-    echo "Usage: $0 <log_file>"
+    echo "script usage is : $0 <log file to parse>"
     exit 1
 fi
 
-LOG_FILE="$1"
-
-if [ ! -e "$LOG_FILE" ]; then
-    echo "Error: Log file '$LOG_FILE' does not exist."
+if [ ! -e "$1" ]; then
+    echo "log file dosent exist"
     exit 1
 fi
 
-CURRENT_DATE=$(date +"%Y%m%d_%H:%M:%S")
-REPORT_FILE="log_report_${CURRENT_DATE}.txt"
+#task 2
+echo "--- ERROR Events ---"
+echo "Total line with error : $(grep -c "error" $1 )"
+echo "Line with error : "
+echo "$(grep -in "error" $1 )"
 
-ERROR_COUNT=$(grep -c -i "ERROR" "$LOG_FILE")
+#task 3
+echo "--- Critical Events ---"
+echo "Total line with CRITICAL : $(grep -c "CRITICAL" $1)"
+echo "Line with CRITICAL : "
+echo "$(grep -in "CRITICAL" $1 )"
 
-CRITICAL_EVENTS=$(grep -n "CRITICAL" "$LOG_FILE")
+#task 4
+echo "--- Top 5 Error Messages ---"
+echo "$(grep -n "ERROR" "$1" | \
+sed -E 's/.*\[ERROR\] (.*) - [0-9]+$/\1/' | \
+sort | \
+uniq -c | \
+sort -nr | \
+head -5)"
 
-TOP_ERRORS=$(grep "ERROR" "$LOG_FILE" | sed -E 's/.*\[ERROR\] (.*) - [0-9]+$/\1/' | sort | uniq -c | sort -nr | head -5)
-
-{
-    echo "Date of analysis: $CURRENT_DATE"
-    echo "Log file name: $LOG_FILE"
-    echo "Total lines processed: $(wc -l < "$LOG_FILE")"
-    echo "Total error count: $ERROR_COUNT"
-    echo "-------------------------------------"
-    echo "Top 5 error messages:"
-    echo "$TOP_ERRORS"
-    echo "-------------------------------------"
-    echo "List of critical events with line numbers:"
-    echo "$CRITICAL_EVENTS"
-} > "$REPORT_FILE"
-
-echo "Analysis complete. Report generated: $REPORT_FILE"
-cat "$REPORT_FILE"
+#task 5
+echo "Date of analysis $cur_date" >> log_report_$cur_date.txt
+echo "Log file name $1" >> log_report_$cur_date.txt
+echo "Total lines processed $(wc -l $1)" >> log_report_$cur_date.txt
+echo "Total error count $(grep -ic "error" $1 )" >> log_report_$cur_date.txt
+echo "Top 5 error messages with their occurrence count $(grep -n "ERROR" "$1" | \
+sed -E 's/.*\[ERROR\] (.*) - [0-9]+$/\1/' | \
+sort | \
+uniq -c | \
+sort -nr | \
+head -5)" >> log_report_$cur_date.txt
+echo "List of critical events with line numbers $(grep -in "CRITICAL" $1 )" >> log_report_$cur_date.txt
 ```
 
 ---
