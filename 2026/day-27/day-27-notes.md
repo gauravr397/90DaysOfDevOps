@@ -14,5 +14,5 @@ Before starting today, I reviewed my profile as if I were a stranger or a recrui
 ## Before & After Screenshots
 *(I have saved the screenshots locally and attached them to this directory)*
 
-- **Before:** `profile-before.png` (Showed old Android/2022 goals)
-- **After:** `profile-after.png` (Shows new DevOps branding, certifications, and pinned repos)
+- **Before:** `![alt text](image-1.png)` (Showed old Android/2022 goals)
+- **After:** `![alt text](image.png)` (Shows new DevOps branding, certifications, and pinned repos)
